@@ -20,7 +20,9 @@
 
 I've done hands-on workshops, courses, breakout sessions, keynotes, and more all over the world for the past 10 years. Here are some examples:
 
-> 🎉 I will be keynoting at DevOpsDays SLC in 2024!
+> 🎉 I will be keynoting at AgileDevOps in Florida and DevOpsDays SLC in 2024!
+
+Unfortunately, not every presentation or workshop I've done is recorded, like `Tips for Building LLM Apps` at AI Con in Vegas this year, but here are a few recordings:
 
 * [Presentation: Testing Machine Learning Models](https://youtu.be/UHbBU8gz7Dw?si=nXpdPVgFThSNSQRQ) at PyCon US (2022)
 * [Presentation: Future of Test Data Generation with AI](https://youtu.be/iYngoCRnM1Q?si=p6pXGG83B8V-BLx3) at TestFlix (online 2022)
